@@ -7,7 +7,9 @@ public class App {
         HashMap<String, String> map = new HashMap<>();
         Scanner scan = new Scanner(System.in);
         readFile(map);
-        
+        for (String key : map.keySet()) {
+            System.out.println(key + ": " + map.get(key));
+        }
     }
 
     static void readFile(HashMap<String, String> map) {
