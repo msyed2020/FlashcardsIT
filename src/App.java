@@ -6,8 +6,18 @@ public class App {
         HashMap<String, String> map = new HashMap<>();
         Scanner scan = new Scanner(System.in);
         readFile(map);
-        for (String key : map.keySet()) {
-            System.out.println(key + ": " + map.get(key));
+        // for (String key : map.keySet()) {
+        //     System.out.println(key + ": " + map.get(key));
+        // }
+        System.out.println("Benvenuti! Study your flashcards here.");
+        System.out.println("1. Add new flashcard");
+
+        int choice = scan.nextInt();
+        if (choice > 3) {
+            System.out.println("Invalid choice");
+        }
+        if (choice <= 0) {
+            System.out.println("Invalid choice");
         }
     }
 
@@ -51,5 +61,6 @@ public class App {
             e.printStackTrace();
         }
         inp.close();
+        map.put(it, en);
     }
 }
