@@ -19,6 +19,9 @@ public class App {
         if (choice <= 0) {
             System.out.println("Invalid choice");
         }
+        if (choice == 1) {
+            addEntry(map);
+        }
     }
 
     static void readFile(HashMap<String, String> map) {
