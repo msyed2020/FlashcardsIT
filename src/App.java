@@ -29,4 +29,15 @@ public class App {
             e.printStackTrace();
         }
     }
+
+    static void addEntry(HashMap<String, String> map) {
+        String it;
+        String en;
+        try (BufferedWriter write = new BufferedWriter(new FileWriter("italian.txt", true))) {
+
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
