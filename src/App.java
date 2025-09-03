@@ -38,10 +38,18 @@ public class App {
         String en = inp.nextLine();
         try (BufferedWriter write = new BufferedWriter(new FileWriter("italian.txt", true))) {
             write.newLine();
-            
+            write.write(it);
         }
         catch (IOException e) {
             e.printStackTrace();
         }
+        try (BufferedWriter write = new BufferedWriter(new FileWriter("english.txt", true))) {
+            write.newLine();
+            write.write(en);
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        }
+        inp.close();
     }
 }
