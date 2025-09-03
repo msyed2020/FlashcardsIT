@@ -31,10 +31,14 @@ public class App {
     }
 
     static void addEntry(HashMap<String, String> map) {
-        String it;
-        String en;
+        System.out.println("Parola in italiano: ");
+        Scanner inp = new Scanner(System.in);
+        String it = inp.nextLine();
+        System.out.println("Parola in inglese: ");
+        String en = inp.nextLine();
         try (BufferedWriter write = new BufferedWriter(new FileWriter("italian.txt", true))) {
-
+            write.newLine();
+            
         }
         catch (IOException e) {
             e.printStackTrace();
