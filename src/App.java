@@ -23,6 +23,9 @@ public class App {
         if (choice == 1) {
             addEntry(map);
         }
+        if (choice == 2) {
+            printFlashcards(map);
+        }
         scan.close();
     }
 
@@ -70,6 +73,8 @@ public class App {
     }
 
     static void printFlashcards(HashMap<String, String> map) {
-
+        for (String key : map.keySet()) {
+            System.out.println(key + ": " + map.get(key));
+        }
     }
 }
