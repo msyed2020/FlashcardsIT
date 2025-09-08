@@ -23,6 +23,7 @@ public class App {
         if (choice == 1) {
             addEntry(map);
         }
+        scan.close();
     }
 
     static void readFile(HashMap<String, String> map) {
