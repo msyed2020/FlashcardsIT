@@ -11,6 +11,7 @@ public class App {
         // }
         System.out.println("Benvenuti! Study your flashcards here.");
         System.out.println("1. Add new flashcard");
+        System.out.println("2. Print flashcards");
 
         int choice = scan.nextInt();
         if (choice > 3) {
@@ -65,5 +66,9 @@ public class App {
         }
         inp.close();
         map.put(it, en);
+    }
+
+    static void printFlashcards(HashMap<String, String> map) {
+
     }
 }
