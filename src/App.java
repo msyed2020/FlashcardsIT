@@ -9,6 +9,7 @@ public class App {
         System.out.println("Benvenuti! Study your flashcards here.");
         System.out.println("1. Add new flashcard");
         System.out.println("2. Print flashcards");
+        System.out.println("3. Word Quiz");
 
         int choice = scan.nextInt();
         if (choice > 3) {
@@ -73,5 +74,14 @@ public class App {
         for (String key : map.keySet()) {
             System.out.println(key + ": " + map.get(key));
         }
+    }
+
+    static void studyWord(HashMap<String, String> map) {
+        int length = 0;
+        for (String key : map.keySet()) {
+            length++;
+        }
+        int random = (int) (Math.random() * length);
+        // convert to arraylist
     }
 }
