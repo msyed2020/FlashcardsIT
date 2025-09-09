@@ -6,9 +6,6 @@ public class App {
         HashMap<String, String> map = new HashMap<>();
         Scanner scan = new Scanner(System.in);
         readFile(map);
-        // for (String key : map.keySet()) {
-        //     System.out.println(key + ": " + map.get(key));
-        // }
         System.out.println("Benvenuti! Study your flashcards here.");
         System.out.println("1. Add new flashcard");
         System.out.println("2. Print flashcards");
