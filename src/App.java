@@ -85,7 +85,9 @@ public class App {
         // convert to arraylist
         ArrayList<String> ital = new ArrayList<String>();
         ArrayList<String> eng = new ArrayList<String>();
-        
+        for (String key : map.keySet()) {
+            ital.add(key);
+        }
         // grab key then value
     }
 }
