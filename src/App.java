@@ -83,6 +83,9 @@ public class App {
         }
         int random = (int) (Math.random() * length);
         // convert to arraylist
+        ArrayList<String> ital = new ArrayList<String>();
+        ArrayList<String> eng = new ArrayList<String>();
+        
         // grab key then value
     }
 }
