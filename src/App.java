@@ -53,7 +53,11 @@ public class App {
         System.out.println("Parola in italiano: ");
         Scanner inp = new Scanner(System.in);
         String it = inp.nextLine();
+        if (map.containsKey(it)) {
+            System.out.println("Word already in flashcards");
+        }
         System.out.println("Parola in inglese: ");
+        if ()
         String en = inp.nextLine();
         try (BufferedWriter write = new BufferedWriter(new FileWriter("italian.txt", true))) {
             write.newLine();
