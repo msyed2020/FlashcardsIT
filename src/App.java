@@ -55,9 +55,9 @@ public class App {
         String it = inp.nextLine();
         if (map.containsKey(it)) {
             System.out.println("Word already in flashcards");
+            return;
         }
         System.out.println("Parola in inglese: ");
-        if ()
         String en = inp.nextLine();
         try (BufferedWriter write = new BufferedWriter(new FileWriter("italian.txt", true))) {
             write.newLine();
