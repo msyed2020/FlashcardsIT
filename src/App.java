@@ -24,6 +24,9 @@ public class App {
         if (choice == 2) {
             printFlashcards(map);
         }
+        if (choice == 3) {
+            studyWord(map);
+        }
         scan.close();
     }
 
@@ -84,13 +87,12 @@ public class App {
         int random = (int) (Math.random() * length);
         // convert to arraylist
         ArrayList<String> ital = new ArrayList<String>();
-        
         for (String key : map.keySet()) {
             ital.add(key);
         }
         // grab key then value
         Collection<String> values = map.values();
         ArrayList<String> eng = new ArrayList<String>(values);
-        
+        System.out.println("Translate " + ital.get(random - 1));
     }
 }
