@@ -93,6 +93,15 @@ public class App {
         // grab key then value
         Collection<String> values = map.values();
         ArrayList<String> eng = new ArrayList<String>(values);
-        System.out.println("Translate " + ital.get(random - 1));
+        System.out.println("Translate " + ital.get(random));
+        Scanner scan = new Scanner(System.in);
+        String ans = scan.nextLine();
+        if (ans.equals(eng.get(random))) {
+            System.out.println("Correct!");
+        }
+        else {
+            System.out.println("Incorrect! It is actually " + eng.get(random));
+        }
+        scan.close();
     }
 }
