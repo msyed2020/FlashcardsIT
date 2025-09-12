@@ -55,6 +55,7 @@ public class App {
         String it = inp.nextLine();
         if (map.containsKey(it)) {
             System.out.println("Word already in flashcards");
+            inp.close();
             return;
         }
         System.out.println("Parola in inglese: ");
