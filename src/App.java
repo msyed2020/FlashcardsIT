@@ -5,6 +5,8 @@ import java.io.*;
 
 // Don't even study italian anymore :(
 
+// It was all a fantasy
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
