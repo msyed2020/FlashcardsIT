@@ -3,6 +3,8 @@ import java.io.*;
 
 // Here are flashcards right
 
+// Don't even study italian anymore :(
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
