@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// too tired what just happened lol
-
-// its like i got a haircut and just dropped to sleep 
-
-// call me dr seuss bc i do not wanna get up today
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
