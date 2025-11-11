@@ -5,6 +5,8 @@ import java.io.*;
 
 // maybe one day ill get back to italian
 
+// should i read boe in hebrew
+
 
 public class App {
     public static void main(String[] args) throws Exception {
