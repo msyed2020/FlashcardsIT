@@ -3,6 +3,8 @@ import java.io.*;
 
 // grief is incredibly hard
 
+// literally a part of me has died and isn't coming back
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
