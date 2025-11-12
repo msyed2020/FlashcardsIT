@@ -1,6 +1,8 @@
 import java.util.*;
 import java.io.*;
 
+// grief is incredibly hard
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
