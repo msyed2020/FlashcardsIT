@@ -5,6 +5,8 @@ import java.io.*;
 
 // literally a part of me has died and isn't coming back
 
+// im going to come back much better but ill miss who i was
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
