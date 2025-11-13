@@ -3,6 +3,8 @@ import java.io.*;
 
 // codependent no more >:)
 
+// nah im done g
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
