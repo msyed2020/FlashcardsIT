@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// im like hey wassup hello
-
-// seen yo pretty @$$ soon as you came in the dooh
-
-// she my trap queen let her hit the band doe
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
