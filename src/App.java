@@ -1,7 +1,9 @@
 import java.util.*;
 import java.io.*;
 
-// sry ur lil comparison failed XD
+// sry ur lil comparison failed 
+
+// it was unhealthy lol
 
 public class App {
     public static void main(String[] args) throws Exception {
