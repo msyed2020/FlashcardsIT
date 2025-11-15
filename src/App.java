@@ -7,6 +7,8 @@ import java.io.*;
 
 // remarkable right
 
+// say imma tired XD
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
