@@ -1,14 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// sry ur lil comparison failed 
-
-// it was unhealthy lol
-
-// remarkable right
-
-// say imma tired XD
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
