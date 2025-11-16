@@ -3,6 +3,8 @@ import java.io.*;
 
 // diamonds
 
+// oo aa ah ah AH AH ah oh ohhh
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
