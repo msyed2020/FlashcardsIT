@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// fighting my demons has a good filtered saw wave
-
-// one act of kindness saved someone
-
-// survivors guilt hella real ngl
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
