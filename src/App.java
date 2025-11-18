@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// ye bro my work ethic is toxic
-
-// the bomb dot com a self proclaimed narcissist
-
-// im a tall guy im just confirming the stereotype
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
