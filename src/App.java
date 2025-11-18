@@ -5,6 +5,8 @@ import java.io.*;
 
 // the bomb dot com a self proclaimed narcissist
 
+// im a tall guy im just confirming the stereotype
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
