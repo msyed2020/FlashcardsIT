@@ -5,6 +5,8 @@ import java.io.*;
 
 // sometimes friends are family...literally
 
+// lololol
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
