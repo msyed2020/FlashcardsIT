@@ -5,6 +5,8 @@ import java.io.*;
 
 // and i need to get back to dsp
 
+// codings weird, dsp fine tho
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
