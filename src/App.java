@@ -5,6 +5,8 @@ import java.io.*;
 
 // metal gear solid
 
+// aint no cryin nor self pity
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
