@@ -1,14 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// lol fighting my demons
-
-// metal gear solid
-
-// aint no cryin nor self pity
-
-// cause i get the crown, shell city
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
