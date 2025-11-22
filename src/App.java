@@ -1,7 +1,9 @@
 import java.util.*;
 import java.io.*;
 
-// who told 
+// who told u lies
+
+// fk it gonna go into fashion
 
 public class App {
     public static void main(String[] args) throws Exception {
