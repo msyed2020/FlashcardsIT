@@ -1,10 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// lowk too much glaze lol
-
-// kinda done w italian this is dead lol
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
