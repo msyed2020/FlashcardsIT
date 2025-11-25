@@ -5,6 +5,8 @@ import java.io.*;
 
 // oh well, sleepy
 
+// didnt suffer a normal loss
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
