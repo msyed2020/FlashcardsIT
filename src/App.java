@@ -3,6 +3,8 @@ import java.io.*;
 
 // grief during the holidays hits different :(
 
+// you're right, I did try to escape yesterday
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
