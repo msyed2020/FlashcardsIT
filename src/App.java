@@ -7,6 +7,8 @@ import java.io.*;
 
 // i cant hold onto the pain any longer
 
+// i was doing perfectly fine, then realized that this thanksgiving was without her
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
