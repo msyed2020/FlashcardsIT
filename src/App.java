@@ -5,6 +5,8 @@ import java.io.*;
 
 // you're right, I did try to escape yesterday
 
+// i cant hold onto the pain any longer
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
