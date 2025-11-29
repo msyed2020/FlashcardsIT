@@ -5,6 +5,8 @@ import java.io.*;
 
 // i was more hood b4 i made rap
 
+// drank thru my life
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
