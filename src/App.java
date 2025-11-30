@@ -5,6 +5,8 @@ import java.io.*;
 
 // i got interest in other things
 
+// fk tech
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
