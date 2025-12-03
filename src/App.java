@@ -5,6 +5,8 @@ import java.io.*;
 
 // life falling apart entirely
 
+// wow health go brrrr
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
