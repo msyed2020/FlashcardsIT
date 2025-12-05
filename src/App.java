@@ -5,6 +5,8 @@ import java.io.*;
 
 // someone stop me lol
 
+// i hate short notice events
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
