@@ -5,6 +5,8 @@ import java.io.*;
 
 // lol whaddup
 
+// im not desperate says the desperate person
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
