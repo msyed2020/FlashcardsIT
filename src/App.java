@@ -5,6 +5,8 @@ import java.io.*;
 
 // as long as u 80 90k im chilling
 
+// negativity aint gonna touch me today chief
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
