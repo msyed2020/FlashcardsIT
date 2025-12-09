@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// i dont like my scams :)
-
-// scam me not
-
-// me n my kup
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
