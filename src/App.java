@@ -5,6 +5,8 @@ import java.io.*;
 
 // im tryna do this music stuff lol
 
+// its all in or all out, go big or go home
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
