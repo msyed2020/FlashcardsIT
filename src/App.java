@@ -3,6 +3,8 @@ import java.io.*;
 
 // we back
 
+// im tryna do this music stuff lol
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
