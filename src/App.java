@@ -1,14 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// self proclaimed aura maxxer
-
-// got so much aura everyone's praising me
-
-// real ahh confidence
-
-// listen to coast contra they dope bois
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
