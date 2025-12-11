@@ -7,6 +7,8 @@ import java.io.*;
 
 // real ahh confidence
 
+// listen to coast contra they dope bois
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
