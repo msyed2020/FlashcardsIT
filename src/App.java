@@ -1,6 +1,8 @@
 import java.util.*;
 import java.io.*;
 
+// self proclaimed aura maxxer
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
