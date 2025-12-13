@@ -5,6 +5,8 @@ import java.io.*;
 
 // deepie d's
 
+// hey you! show your emotions! now!
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
