@@ -3,6 +3,8 @@ import java.io.*;
 
 // was never about realism
 
+// only about safety
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
