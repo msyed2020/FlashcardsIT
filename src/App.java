@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// acted against d---- and stuff bc i was on em
-
-// omg
-
-// was computer science ever even for me?
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
