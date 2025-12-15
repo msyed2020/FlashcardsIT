@@ -5,6 +5,8 @@ import java.io.*;
 
 // omg
 
+// was computer science ever even for me?
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
