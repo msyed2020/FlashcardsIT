@@ -3,6 +3,8 @@ import java.io.*;
 
 // what noooooo you gotta tell us
 
+// fnu fnu fnu
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
