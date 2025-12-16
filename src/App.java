@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// what noooooo you gotta tell us
-
-// fnu fnu fnu
-
-// without the n
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
