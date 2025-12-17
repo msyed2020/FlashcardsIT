@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// screw this bro
-
-// cs is done for lol
-
-// selling plugins n that's it
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
