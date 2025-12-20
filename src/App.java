@@ -5,6 +5,8 @@ import java.io.*;
 
 // they tried to invite me to hang out again n i refused
 
+// hanging out w buddies
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
