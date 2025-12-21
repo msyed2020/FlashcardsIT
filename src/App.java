@@ -5,6 +5,8 @@ import java.io.*;
 
 // look how he spins his head no wonder he got vertigo
 
+// dont bring back anything painful
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
