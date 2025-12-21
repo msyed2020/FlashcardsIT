@@ -3,6 +3,8 @@ import java.io.*;
 
 // vertigo dizziness go brrrr
 
+// look how he spins his head no wonder he got vertigo
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
