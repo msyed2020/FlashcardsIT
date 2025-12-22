@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// me n my kup
-
-// i can see why we have this guy
-
-// ewwwwwwwwwww
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
