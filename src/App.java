@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// faneto
-
-// maybe the incredibles was actually good
-
-// bro what
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
