@@ -5,6 +5,8 @@ import java.io.*;
 
 // it will all be over soon
 
+// diamonds
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
