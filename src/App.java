@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// theres nothing on earth like the feeling of greed
-
-// it will all be over soon
-
-// diamonds
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
