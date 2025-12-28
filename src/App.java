@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// IT WAS THE SYDNEY SWEENEY JEANNNNNNNNNNNSSSS
-
-// online is not the move
-
-// yoyo wass good
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
