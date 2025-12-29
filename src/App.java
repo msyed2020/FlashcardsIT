@@ -5,6 +5,8 @@ import java.io.*;
 
 // need to stop being so scared of the daw lmao
 
+// im not afraid of failing im afraid of succeeding
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
