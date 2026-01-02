@@ -5,6 +5,8 @@ import java.io.*;
 
 // so tired tbh
 
+// lol cooked
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
