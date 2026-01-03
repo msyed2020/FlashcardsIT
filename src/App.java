@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// imperious mike
-
-// mike the furious imperious
-
-// mf doom
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
