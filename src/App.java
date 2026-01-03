@@ -5,6 +5,8 @@ import java.io.*;
 
 // what can I say
 
+// odetari goofy af but a real one
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
