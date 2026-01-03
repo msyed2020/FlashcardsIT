@@ -5,6 +5,8 @@ import java.io.*;
 
 // mike the furious imperious
 
+// mf doom
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
