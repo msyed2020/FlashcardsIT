@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// k hole
-
-// trap jump
-
-// brown rockstar
-
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
