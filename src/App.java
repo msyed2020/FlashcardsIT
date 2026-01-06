@@ -5,6 +5,8 @@ import java.io.*;
 
 // it was the ss jeans
 
+// idc anymore
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
