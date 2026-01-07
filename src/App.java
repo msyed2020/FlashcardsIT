@@ -5,6 +5,8 @@ import java.io.*;
 
 // i want this person
 
+// lol whats up
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
