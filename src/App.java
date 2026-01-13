@@ -1,6 +1,8 @@
 import java.util.*;
 import java.io.*;
 
+// too tired to meet others
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
