@@ -3,6 +3,8 @@ import java.io.*;
 
 // too tired to meet others
 
+// peeps do too much
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
