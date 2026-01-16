@@ -3,6 +3,7 @@ import java.io.*;
 
 // k 1 more day
 
+// lessgo
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
