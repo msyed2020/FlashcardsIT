@@ -3,6 +3,8 @@ import java.io.*;
 
 // ughhh
 
+// live and let live
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
