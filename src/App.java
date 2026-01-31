@@ -3,6 +3,8 @@ import java.io.*;
 
 // tmi too fast
 
+// oh snap
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
