@@ -3,6 +3,8 @@ import java.io.*;
 
 // falling to pieces
 
+// spiraling
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
