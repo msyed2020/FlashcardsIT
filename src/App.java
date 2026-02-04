@@ -5,6 +5,8 @@ import java.io.*;
 
 // me my pouch n my kan
 
+// done
+
 public class App {
     public static void main(String[] args) throws Exception {
         HashMap<String, String> map = new HashMap<>();
